@@ -1,5 +1,3 @@
-# epitope_analyzer
-This tool is used to analyze the epitope prediction results from multiple immunoinformatics software programs, identify peptide regions predicted by at least three tools in common, and output them in a standardized format.
 # Epitope Analyzer
 
 A tool for analyzing epitope prediction results from multiple immunoinformatics software programs.  
